@@ -1,1 +1,1 @@
-# Weather-Forecasting-By-Linear-Regression-Model
+# Weather-Forecasting
